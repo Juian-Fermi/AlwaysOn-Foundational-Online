@@ -2,6 +2,7 @@
 # used for E2E environment pipelines
 variables:
 
+
 # Resource prefix for this environment
 - name:  'prefix'
   value: 'e2elab'          # <===== CHANGE THIS! Must not be longer than 6 characters! Needs to be a unique prefix
