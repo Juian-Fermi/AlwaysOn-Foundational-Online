@@ -22,4 +22,4 @@ variables:
 
 # Other settings
 - name:  'contactEmail'
-  value: 'julian.Fermi@moody-blue.co;talmud.kafka@girith-solutions.co'  # <===== CHANGE THIS VALUE TO ONE OF YOUR REAL EMAIL ADDRESSES (OR A GROUP)!
+  value: 'julian.Fermi@moody-blue.co'  # <===== CHANGE THIS VALUE TO ONE OF YOUR REAL EMAIL ADDRESSES (OR A GROUP)!
